@@ -1,0 +1,15 @@
+.anna{
+    text-align: center;
+}
+.lalisa{
+    text-align: center;
+
+}
+body{
+    margin: 0;
+    background-image: url(image/alalalala.jpg);
+    
+}
+h2:hover{
+    background: pink;
+}
